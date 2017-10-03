@@ -52,7 +52,7 @@ Here is an GraphQL endpoint ready for using with the starter. It was setted in y
 
 You can get more info about **Graphql-up** on [https://graph.cool](https://www.graph.cool/graphql-up/).
 
-Related starter schema is [Here](https://github.com/Danjavia/PWA-ReactJS-Starter-Pack/blob/master/blog.graphqls)
+Related starter schema is [Here](blog.graphqls)
 
 # Deploy Your Progressive Web Application
 
